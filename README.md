@@ -8,6 +8,8 @@ Although it’s been most commonly used to format readme files, forum discussion
 
 We’re going to dig into Discord Markdown in the next section so you can learn how to properly format all of your messages in any way you’d like.
 
+---
+
 ### To create bolded text in discord, all you have to do is start and end the bolded text with two asterisks (*).
 
 ```md
