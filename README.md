@@ -2,6 +2,13 @@
 
 ### Hello there, welcome to my discord markdown guide!
 
+### The Rundown on Markdown
+
+Originally created in 2004 by John Gruber and Aaron Swartz, [Markdown](https://en.wikipedia.org/wiki/Markdown) is a markup language designed to be lightweight and simple to read/write. It’s completely text-based and uses cleverly placed symbols to format words in bold, italics, underlined, etc.
+
+Although it’s been most commonly used to format readme files, forum discussions, and to turn plain text into rich text in basic text editors, Discord’s developers saw its potential and brought it into the core software.
+
+We’re going to dig into Discord Markdown in the next section so you can learn how to properly format all of your messages in any way you’d like.
 
 ### To create bolded text in discord, all you have to do is start and end the bolded text with two asterisks (*).
 
