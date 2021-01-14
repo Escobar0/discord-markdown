@@ -1,6 +1,6 @@
 # Discord Markdown guide
 
-## Hello there, welcome to my discord markdown guide!
+### Hello there, welcome to my discord markdown guide!
 
 
 ### To create bolded text in discord, all you have to do is start and end the bolded text with two asterisks (*).
