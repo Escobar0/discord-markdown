@@ -64,7 +64,7 @@ __**underlined and bolded text**__
 ```
 __***underlined, italicized, and bolded text***__
 ```
-![underlined italicized and bolded text](https://cdn.discordapp.com/attachments/799115386552582184/799130004859387904/unknown.png)
+![underlined italicized and bolded text](https://cdn.discordapp.com/attachments/799115386552582184/800104315121434634/unknown.png)
 
 ### To create a single line code block in discord, you need to use the ‘tick’ or ‘backtick’ character: `.
 
