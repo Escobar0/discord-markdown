@@ -17,7 +17,7 @@ We’re going to dig into Discord Markdown in the next section so you can learn 
 ```
 Here’s an example of **bolded text**
 ```
-![bolded text](https://cdn.discordapp.com/attachments/799115386552582184/799119631746859038/unknown.png)
+![bolded text](https://i.imgur.com/4W2d1Dj.png)
 
 
 ### To create italics or italicized text in Discord, you have to type the asterisk once again, but this time use only one asterisk.
