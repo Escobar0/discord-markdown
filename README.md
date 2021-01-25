@@ -91,4 +91,4 @@ for people that don't know how use codeblocks```
 ```
 > This is an example of a Block Quote
 ```
-![block quotes](https://i.gyazo.com/335922a6ee07589f34861b6d2589b902.mp4)
+![double codeblock](https://i.imgur.com/8X5EnjQ.png)
