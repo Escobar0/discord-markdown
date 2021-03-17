@@ -1,9 +1,5 @@
 # Discord Markdown guide
 
-<p align="center">
-   <img src="https://www.logo.wine/a/logo/Markdown/Markdown-Logo.wine.svg" width="500" height="500">
-</p>
-
 ### Hello there, welcome to my discord markdown guide!
 
 Markdown is created in 2004 by John Gruber and Aaron Swartz, [Markdown](https://en.wikipedia.org/wiki/Markdown) is a markup language designed to be lightweight and simple to read/write. It’s completely text-based and uses cleverly placed symbols to format words in bold, italics, underlined, etc.
