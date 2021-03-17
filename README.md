@@ -1,10 +1,6 @@
-# Discord Markdown guide
+# Discord Text Formatting guide
 
-### Hello there, welcome to my discord markdown guide!
-
-Markdown is created in 2004 by John Gruber and Aaron Swartz, [Markdown](https://en.wikipedia.org/wiki/Markdown) is a markup language designed to be lightweight and simple to read/write. It’s completely text-based and uses cleverly placed symbols to format words in bold, italics, underlined, etc.
-
-We’re going to dig into Discord Markdown in the next section so you can learn how to properly format all of your messages in any way you’d like.
+### Hello there, welcome to my discord text formatting guide!
 
 ---
 
