@@ -1,4 +1,4 @@
-# Discord Text Formatting guide
+# Discord Text Formatting
 
 ### Hello there, welcome to my discord text formatting guide!
 
