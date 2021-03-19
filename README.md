@@ -1,7 +1,5 @@
 # Discord Text Formatting
 
----
-
 ### To create bolded text in discord, all you have to do is start and end the bolded text with two asterisks (*).
 
 ```
